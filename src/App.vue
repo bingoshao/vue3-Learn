@@ -1,6 +1,9 @@
 <template>
   <!-- <img alt="Vue logo" src="./assets/logo.png" /> -->
   <HelloWorld msg="youxuepai smj" />
+  <p>分支提交1</p>
+  <p>分支提交2</p>
+  <p>分支提交3</p>
 </template>
 
 <script>
